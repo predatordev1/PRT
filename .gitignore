@@ -1,0 +1,6 @@
+.terrafor.lock.hcl
+.terraform*
+./terraform.tfvars
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/.terraform/.
